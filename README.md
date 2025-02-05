@@ -1,0 +1,2 @@
+# Victim-of-SA-in-india-with-visualization-based-on-Situation
+Analyzing rape victim data in India using data engineering and machine learning to uncover patterns, trends, and spatial dynamics. Visualizing demographics, geography, and temporal factors to provide actionable insights for policy and advocacy. Highlights data's role in raising awareness, driving interventions, and fostering systemic change.
